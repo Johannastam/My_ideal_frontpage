@@ -1,0 +1,15 @@
+body{
+background-color: lightsteelblue;
+}
+.first-paragraph{
+    background-color: antiquewhite;
+    width: 25px;
+}
+header{
+    background-color: rgb(63, 125, 139);
+}
+#second-paragraph {
+    background-color: darkblue;
+    color: aliceblue;
+    width: 140px;
+}
